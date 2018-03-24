@@ -1,0 +1,3 @@
+rootProject.name = 'pandaMantaAndroid'
+
+include ':app'
